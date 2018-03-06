@@ -1,0 +1,9 @@
+{
+  "name": "drawbridge-development-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "http-proxy": "^1.16.2"
+  }
+}
